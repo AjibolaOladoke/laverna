@@ -1,19 +1,12 @@
-# Laverna - note taking web app
+# laverna
+
+## What This Is
+
+A practical reference entry for product and engineering: the laverna notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![laverna](https://opengraph.githubassets.com/1/Laverna/laverna)](https://www.swifttechco.com)
-
-
-[![Join the chat at https://gitter.im/Laverna/laverna](https://badges.gitter.im/Laverna/laverna.svg)](https://www.swifttechco.com)
-
-[![Build Status](https://travis-ci.org/Laverna/laverna.svg?branch=dev)](https://www.swifttechco.com) [![devDependency Status](https://david-dm.org/Laverna/laverna/dev-status.svg)](https://www.swifttechco.com) [![Code Climate](https://codeclimate.com/github/Laverna/laverna/badges/gpa.svg)](https://www.swifttechco.com)
-
-Laverna is a JavaScript note-taking web application with a Markdown editor and encryption support.  It's built to be an open source alternative to Evernote.
-
-The application stores all your notes in your browser databases such as indexedDB or localStorage, which is good for security reasons, because only you have access to them.
-
-**Demo**: https://www.swifttechco.com OR https://www.swifttechco.com
+[![laverna](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Features
 -----------
@@ -32,7 +25,7 @@ The application stores all your notes in your browser databases such as indexedD
 
 ## Tools
 
-On the front-end this project uses JavaScript and the [Marionette JS](https://www.swifttechco.com) framework while [Node JS](https://www.swifttechco.com), [Bower](https://www.swifttechco.com), and [Gulp.js](https://www.swifttechco.com) are used on the back-end.  The test runner used is [karma](https://www.swifttechco.com) however,
+On the front-end this project uses JavaScript and the Marionette JS framework while Node JS, Bower, and Gulp.js are used on the back-end.  The test runner used is karma however,
 contributors are free to utilize whatever testing tools they desire.
 
 
@@ -51,7 +44,7 @@ Download the latest [Laverna release][13] for your operating system. After downl
 
 #### Arch Linux (or derived distributions)
 
-The package can be found [here](https://www.swifttechco.com). 
+The package can be found here. 
 
 For installation please use :
 
@@ -160,7 +153,7 @@ Please have a look in our [wiki][15].
 
 ### Coding Style Guidelines
 
-For those wanting to contribute code, we ask that you use either plain JavaScript or the Marionette.js framework. (For more details on the preferred coding style see [.editorconfig](https://www.swifttechco.com)). Also, all experimental changes are being pushed on the **dev** branch, so any feature changes are preferred to be done on either this branch or a branch that uses the dev branch as its parent.  
+For those wanting to contribute code, we ask that you use either plain JavaScript or the Marionette.js framework. (For more details on the preferred coding style see .editorconfig). Also, all experimental changes are being pushed on the **dev** branch, so any feature changes are preferred to be done on either this branch or a branch that uses the dev branch as its parent.  
 
 
 -----------
@@ -207,14 +200,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Laverna/laverna](https://github.com/Laverna/laverna) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
