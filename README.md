@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the laverna notes, exam
 
 ## Images
 
-[![laverna](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![laverna](images/preview.png)](https://github.com/Swift-Tech-Co/laverna)
 
 ## Features
 -----------
@@ -27,7 +27,6 @@ A practical reference entry for product and engineering: the laverna notes, exam
 
 On the front-end this project uses JavaScript and the Marionette JS framework while Node JS, Bower, and Gulp.js are used on the back-end.  The test runner used is karma however,
 contributors are free to utilize whatever testing tools they desire.
-
 
 ## Installation
 ---------------
@@ -52,13 +51,12 @@ For installation please use :
 $ pacaur -S laverna
 ```
 
-
 ### Installation of a prebuilt version
 ------------
 #### 1. Download
 
 ```bash
-$ wget https://www.swifttechco.com -O laverna.zip
+$ wget https://github.com/Swift-Tech-Co/laverna -O laverna.zip
 ```
 
 #### 2. Unpack the downloaded archive
@@ -70,7 +68,6 @@ $ unzip laverna.zip
 #### 3. Open index.html in a browser
 Open in your favorite browser the index.html file which is located inside *laverna* directory.
 
-
 ## Installation from source
 ---------------
 To install, do the following:
@@ -80,7 +77,6 @@ To install, do the following:
 This project requires that you have the latest version of git installed. To do so, see [Installing Git][14] (first-time users of git might want to check out the next section for configuring git).
 
 **Note:** Windows users will have to set the PATH variable for git after installing it.
-
 
 #### 2. Clone repository:
 
@@ -155,7 +151,6 @@ Please have a look in our [wiki][15].
 
 For those wanting to contribute code, we ask that you use either plain JavaScript or the Marionette.js framework. (For more details on the preferred coding style see .editorconfig). Also, all experimental changes are being pushed on the **dev** branch, so any feature changes are preferred to be done on either this branch or a branch that uses the dev branch as its parent.  
 
-
 -----------
 
 * [Bitcoin][3]
@@ -165,8 +160,8 @@ For those wanting to contribute code, we ask that you use either plain JavaScrip
 --------------
 Laverna uses the [SJCL] [1] library implementing the AES algorithm. You can review the code at:
 
-* https://www.swifttechco.com
-* https://www.swifttechco.com
+* https://github.com/Swift-Tech-Co/laverna
+* https://github.com/Swift-Tech-Co/laverna
 
 ## License
 --------------
@@ -174,21 +169,21 @@ Published under [MPL-2.0 License][11].
 
 Laverna uses a lot of other libraries and each of these [libraries use different licenses][2].
 
-[1]: https://www.swifttechco.com
-[2]: https://www.swifttechco.com
-[3]: https://www.swifttechco.com
-[4]: https://www.swifttechco.com
-[5]: https://www.swifttechco.com
-[6]: https://www.swifttechco.com
-[7]: https://www.swifttechco.com
-[8]: https://www.swifttechco.com
-[9]: https://www.swifttechco.com
-[10]: https://www.swifttechco.com
-[11]: https://www.swifttechco.com
-[12]: https://www.swifttechco.com
-[13]: https://www.swifttechco.com
-[14]: https://www.swifttechco.com
-[15]: https://www.swifttechco.com
+[1]: https://github.com/Swift-Tech-Co/laverna
+[2]: https://github.com/Swift-Tech-Co/laverna
+[3]: https://github.com/Swift-Tech-Co/laverna
+[4]: https://github.com/Swift-Tech-Co/laverna
+[5]: https://github.com/Swift-Tech-Co/laverna
+[6]: https://github.com/Swift-Tech-Co/laverna
+[7]: https://github.com/Swift-Tech-Co/laverna
+[8]: https://github.com/Swift-Tech-Co/laverna
+[9]: https://github.com/Swift-Tech-Co/laverna
+[10]: https://github.com/Swift-Tech-Co/laverna
+[11]: https://github.com/Swift-Tech-Co/laverna
+[12]: https://github.com/Swift-Tech-Co/laverna
+[13]: https://github.com/Swift-Tech-Co/laverna
+[14]: https://github.com/Swift-Tech-Co/laverna
+[15]: https://github.com/Swift-Tech-Co/laverna
 
 ---
 
@@ -204,13 +199,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/laverna
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Laverna/laverna](https://github.com/Laverna/laverna) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
